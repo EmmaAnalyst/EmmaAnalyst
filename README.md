@@ -17,10 +17,11 @@ Welcome to my Github repository! Here's a breakdown of my tech expertise:
    * Excel (VBA)
    * MATLAB
    * Apache Spark
+   * Data science/analytics
 
 ## 🚀 MORE
-   * 🔭 Currently engaged in developing an AI-driven website for SearchEngineHub.
-   * 🌱 Actively enhancing my knowledge in AWS.
+   * 🔭 Currently working on predictive 
+   * 🌱 Actively enhancing my knowledge in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🎉 Hobby: Coding, Debugging, Football.
 
