@@ -1,6 +1,6 @@
-Greetings! I'm Ezekiel, specializing in full stack development and data analytics. 👋
+Greetings, I'm Ezekiel, specializing in full stack development and data analytics. 👋
 
-Welcome to my Github repository! Here's a breakdown of my tech expertise:
+Welcome to my Github page! Here's a breakdown of my tech expertise:
 
 ## 🚀 About Me
 ✍️ Proficient in:
