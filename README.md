@@ -1,4 +1,4 @@
-Greetings, I'm 𝕰𝖒𝖒𝖆𝖓𝖚𝖊𝖑, specializing in full stack development and data analytics. 👋
+Greetings👋, I'm 𝕰𝖒𝖒𝖆𝖓𝖚𝖊𝖑, specializing in 𝓯𝓾𝓵𝓵 𝓼𝓽𝓪𝓬𝓴 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓪𝓷𝓭 𝓭𝓪𝓽𝓪 𝓪𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼. 
 
 Welcome to my Github page! Here's a breakdown of my tech expertise:
 
