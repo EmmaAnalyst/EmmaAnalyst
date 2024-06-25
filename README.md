@@ -11,7 +11,7 @@ Welcome to my Github page! Here's a breakdown of my tech expertise:
    * JavaScript (for visualization libraries like D3.js)
 
 ## 🚀 Other Stacks
-✍️ Also skilled in:
+✍️ Also vast in:
    * Tableau
    * Power BI
    * Excel (VBA)
