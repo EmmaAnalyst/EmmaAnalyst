@@ -17,7 +17,7 @@ Welcome to my Github page! Here's an overview of my tech expertise:
    * Excel (VBA)
    * MATLAB
    * Apache Spark
-   * Data analytics
+   * Data analytics.
 
 ## 🚀 MORE
    * 🔭 Currently working on predictive maintenance for industrial equipment using Machine learning.
