@@ -4,8 +4,8 @@ Welcome to my Github page! Here's an overview of my tech expertise:
 
 ## 🚀 About Me
 ✍️ Proficient in:
-   * R
    * Python (NumPy, PyTorch, Pandas)
+   * R
    * SQL (MySQL, PostgreSQL)
    * Machine learning
    * JavaScript (for visualization libraries like D3.js)
