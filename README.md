@@ -21,11 +21,10 @@ Welcome to my Github page! Here's an overview of my tech expertise:
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
-      [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](git@github.com:EmmaAnalyst/CorrosionAnalysis.git)
-    
+      [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com:EmmaAnalyst/CorrosionAnalysis.git)
+   
     - ## 🔗 SOCIAL LINKS
-      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login)
 ## 🚀 MORE
    * 🔭 Currently working on predictive maintenance for industrial equipment using Machine learning.
    * 🌱 Actively enhancing my knowledge in Deep Learning.
