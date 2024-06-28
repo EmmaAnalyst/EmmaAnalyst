@@ -21,7 +21,7 @@ Welcome to my Github page! Here's an overview of my tech expertise:
 
 ## 🚀 PROJECT LINKS
 * 
-    - ## 🔗 SEE ATTACHED
+    - 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](git@github.com:EmmaAnalyst/CorrosionAnalysis.git)
     
     - ## 🔗 SOCIAL LINKS
