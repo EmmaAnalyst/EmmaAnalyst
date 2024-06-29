@@ -3,7 +3,7 @@ Greetings👋, I'm 𝕰𝖒𝖒𝖆𝖓𝖚𝖊𝖑, specializing in 𝓯𝓾�
 Welcome to my Github page! Here's an overview of my tech expertise:
 
 ## 🚀 About Me
-✍️ Proficient in:
+✍️ 𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
    * Python (NumPy, PyTorch, Pandas)
    * R
    * SQL (MySQL, PostgreSQL)
