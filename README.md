@@ -29,4 +29,4 @@ Welcome to my Github page! Here's an overview of my tech expertise:
    * 🔭 Currently working on predictive maintenance for industrial equipment using Machine learning.
    * 🌱 Actively enhancing my knowledge in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
-   * 🎉 Hobby: Coding, Debugging, Football.
+   * 🎉 Hobby: Coding and Debugging.
