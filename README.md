@@ -26,7 +26,7 @@ Welcome to my Github page! Here's an overview of my tech expertise:
       [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EmmaAnalyst/BeachGroupAnalysis.git)
    
     - ## 🔗 SOCIAL LINKS
-      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login)
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
 
 ## 🚀 MORE
    * 🔭 Currently working on predictive maintenance for industrial equipments using Machine learning.
