@@ -3,7 +3,7 @@ Greetings👋, I'm 𝕰𝖒𝖒𝖆𝖓𝖚𝖊𝖑, specializing in 𝓯𝓾�
 In data science, I use machine learning algorithms to analyze vast datasets, uncover patterns, and make predictions. This includes supervised and unsupervised learning, deep learning, and natural language processing. 
 
 ## 🚀 About Me
-✍️ 𝗜'𝗺 adept at using:
+✍️ 𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
    * Python (NumPy, PyTorch, Pandas)
    * R
    * SQL (MySQL, PostgreSQL)
