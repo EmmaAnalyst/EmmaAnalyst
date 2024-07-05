@@ -30,6 +30,6 @@ In data science, I use machine learning algorithms to analyze vast datasets, unc
 
 ## 🚀 MORE
    * 🔭 Working on predictive maintenance for industrial equipments using  Machine learning.
-   * 🌱 Actively enhancing my knowledge in Deep Learning.
+   * 🌱 Actively consolidating my knowledge in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🎉 Hobby: Coding and Debugging.
