@@ -1,6 +1,6 @@
 Greetings👋, I'm 𝕰𝖒𝖒𝖆𝖓𝖚𝖊𝖑, specializing in 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀. I integrate advanced machine learning techniques into data science and analytics to drive insights and business decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow and accessibility. I design and implement scalable solutions that leverage big data.
 
-In data science, I use machine learning algorithms to analyze vast datasets, uncover patterns, and make predictions. This includes supervised and unsupervised learning, deep learning, and natural language processing. 
+In the realm of data science, I use machine learning algorithms to analyze vast datasets, uncover patterns, and make predictions. This includes supervised and unsupervised learning, deep learning, and natural language processing. 
 
 ## 🚀 About Me
 ✍️ 𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
