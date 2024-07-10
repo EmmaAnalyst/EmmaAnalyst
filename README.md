@@ -17,7 +17,7 @@ In the realm of data science, I use machine learning algorithms to analyze vast 
    * Excel (VBA)
    * MATLAB
    * Apache Spark
-   * Data analytics.
+   * Data analytics
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
