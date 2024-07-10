@@ -29,7 +29,7 @@ In the realm of data science, I use machine learning algorithms to analyze vast 
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
 
 ## 🚀 MORE
-   * 🔭 I'm working on predictive maintenance for industrial equipments using Machine learning.
+   * 🔭 I'm working on predictive maintenance for industrial equipments using ML.
    * 🌱 I'm currently consolidating my knowledge in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🎉 Hobby: Coding and Debugging.
