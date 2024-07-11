@@ -13,7 +13,7 @@ In the realm of data science, I use machine learning algorithms to analyse vast 
 ## 🚀 Other Stacks
 ✍️ 𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
    * Tableau
-   * Power BI
+   * Microsoft Power BI
    * Excel (VBA)
    * MATLAB
    * Apache Spark
