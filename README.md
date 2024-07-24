@@ -32,4 +32,4 @@ More importantly, I design and implement scalable solutions that leverage big da
    * 🔭 I'm currently working on predictive maintenance for industrial equipments using Machine Learning.
    * 🌱 I'm consolidating my skills in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
-   * 🎉 Hobby: Coding and Debugging.
+   * 🎉 Hobby: Coding and Debugging...
