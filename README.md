@@ -29,7 +29,7 @@ More importantly, I design and implement scalable solutions that leverage big da
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
 
 ## 🚀 MORE
-   * 🔭 I'm currently working on predictive maintenance for industrial equipments using Machine Learning.
+   * 🔭 I'm currently working on predictive maintenance for industrial equipments using Machine Learning...
    * 🌱 I'm consolidating my skill in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🎉 Hobby: Coding and Debugging.
